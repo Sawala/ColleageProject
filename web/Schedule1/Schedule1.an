@@ -1,0 +1,100 @@
+{
+
+	"HTMLFileName":"Schedule1.html",
+	"symbol_stage":{
+		"dummyStageParentWidth":"540px",
+		"element_${_Text3}":{
+			"timelineColor2":"0xd35d6e",
+			"timelineColor3":"0x7e4b52",
+			"timelineColor":"0xfb657a"},
+		"element_${_Text}":{
+			"timelineColor2":"0x81aa62",
+			"timelineColor3":"0x5b6c4d",
+			"timelineColor":"0x91c767"},
+		"element_${_Text2Copy}":{
+			"timelineColor2":"0x1095d2",
+			"timelineColor3":"0x29647e",
+			"timelineColor":"0x00a9fa"},
+		"element_${_RoundRectCopy2}":{
+			"timelineColor2":"0x326a96",
+			"timelineColor3":"0x385063",
+			"timelineColor":"0x2f73ad"},
+		"element_${_Text2}":{
+			"timelineColor2":"0x1aa38f",
+			"timelineColor3":"0x2a6a61",
+			"timelineColor":"0x00bda4"},
+		"element_${_RoundRect}":{
+			"timelineColor2":"0x4fa275",
+			"timelineColor3":"0x456a55",
+			"timelineTreeOpened":"false",
+			"timelineColor":"0x50bd82"},
+		"element_${_RoundRectCopy}":{
+			"timelineColor2":"0x168c84",
+			"timelineColor3":"0x2a605c",
+			"timelineColor":"0x00a096"},
+		"element_${_arrowCopy}":{
+			"timelineColor2":"0xb099ce",
+			"timelineColor3":"0x70657c",
+			"timelineColor":"0xceaef4"},
+		"element_${_Text3Copy2}":{
+			"timelineColor2":"0xd8b467",
+			"timelineColor3":"0x81714f",
+			"timelineColor":"0xffd46d"},
+		"defaultStageParentHeight":"180px",
+		"element_${_arrow}":{
+			"timelineColor2":"0x5a558a",
+			"timelineColor3":"0x4a485e",
+			"timelineColor":"0x63599f"},
+		"element_${_Text2Copy2}":{
+			"timelineColor2":"0x107faa",
+			"timelineColor3":"0x295a6d",
+			"timelineColor":"0x008dc8"},
+		"element_${_Text3Copy}":{
+			"timelineColor2":"0xba5b89",
+			"timelineColor3":"0x734a5f",
+			"timelineColor":"0xdb619d"},
+		"defaultStageParentWidth":"540px",
+		"element_${_Stage}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"timelineColor":"0xeedf79"},
+		"dummyStageParentHeight":"180px"},
+	"CompZoomFactor":"100",
+	"StageZoomFactor":"100",
+	"colorSwatches":"rgba(174,243,194,1.00)|rgba(237,110,11,1.00)|rgba(245,235,208,1.00)",
+	"ModelData":"{\
+\"stage\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+            \"ElementKeyframes\": {\
+                \"${_arrowCopy}\": [], \
+                \"${_Text2Copy}\": [], \
+                \"${_arrow}\": [], \
+                \"${_Text3Copy2}\": [], \
+                \"${_Text2}\": [], \
+                \"${_Text2Copy2}\": [], \
+                \"${_Text}\": [], \
+                \"${_RoundRectCopy2}\": [], \
+                \"${_RoundRectCopy}\": [], \
+                \"${_Stage}\": [], \
+                \"${_RoundRect}\": [], \
+                \"${_Text3Copy}\": [], \
+                \"${_Text3}\": []\
+            }\
+      }\
+   }},\
+\"Preloader\": {\
+   \"timelines\": {\
+\
+   }},\
+\"Down-level\": {\
+   \"timelines\": {\
+\
+   }}\
+}",
+	"usedBOM":"false",
+	"nextElementColorIndex":"14",
+	"stage-Default Timeline_playhead_ms":"0",
+	"pref__general__FilterNonAnimatedElements":"false",
+	"viewStartY":"0",
+	"gradientSwatches":"-webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(174,243,194,1.00) 59%)"}
